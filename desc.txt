@@ -1,0 +1,1 @@
+In this code of julia I tried to fit a multiple linear regression for a housing data
